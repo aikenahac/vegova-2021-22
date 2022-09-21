@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/bridge.dir/src/main.cpp.o -o bridge 

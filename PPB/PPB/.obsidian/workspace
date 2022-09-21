@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "183f686c05fb2364",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c5d189f528d0780",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Varnost podatkovnih baz.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "389652533037a86a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e53d5be77f984ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64b5fbeef4bfab33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "12406c12a5d3c92f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f43118f67d661b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f5b70fa23e2ae13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ef2c26d28d4884",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Varnost podatkovnih baz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c5d189f528d0780",
+  "lastOpenFiles": [
+    "Varnost podatkovnih baz.md",
+    "Funkcije v SQL.md"
+  ]
+}

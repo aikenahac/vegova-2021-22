@@ -1,0 +1,3 @@
+/home/aiken/repos/school/game_of_bridge/build/CMakeFiles/bridge.dir
+/home/aiken/repos/school/game_of_bridge/build/CMakeFiles/edit_cache.dir
+/home/aiken/repos/school/game_of_bridge/build/CMakeFiles/rebuild_cache.dir
